@@ -19,3 +19,6 @@ The Court Documents as mentioned in the dataset index is available on the folder
 
 
 You are requested to cite our paper if you use any part of the dataset or paper for your work. Please contact authors in case of any query.
+
+# Acknowledgement
+https://indiankanoon.org/
