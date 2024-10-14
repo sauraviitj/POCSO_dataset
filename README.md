@@ -11,6 +11,11 @@ Legal documents are complex in nature, describing a course of argumentative reas
 
 # Dataset:
 #Dataset link : https://docs.google.com/spreadsheets/d/1ivdbU_n9Bb_UekBHX2RFjCJni16LYr5qpplFu8ZxCFk/edit?usp=sharing
+
+
 The link contains summary of 50 POCSO cases created using pipeline discussed in the above mentioned paper using 1. LLAMA2 and 2. GPT 3.5 
+
 The Court Documents as mentioned in the dataset index is available on the folder named "files" in this repository.
+
+
 You are requested to cite our paper if you use any part of the dataset or paper for your work. Please contact authors in case of any query.
