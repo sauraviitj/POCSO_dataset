@@ -11,15 +11,21 @@ Legal documents are complex in nature, describing a course of argumentative reas
 # Disclaimer:
 The dataset shall be used solely for research purposes. No part of it, in whole or in part, shall be used for any commercial purpose.
 # Dataset:
-Dataset link : Please Fill up the form [POCSO Dataset Request Form](https://forms.gle/9ZYiShDPEtcVzGKdA) , to get access of POCSO_dataset.
+Dataset link : Please Fill up the form [POCSO Dataset Request Form](https://forms.gle/rHbhrQLvVfCWZLG3A) , to get access of POCSO_dataset.
 
-
+#Instruction to use the dataset
 The datset contains summary of 50 POCSO cases created using pipeline discussed in the above mentioned paper using 1. LLAMA2 and 2. GPT 3.5 
 
-The Court Documents as mentioned in the dataset index is available on the folder named "files" in this repository.
+The Court Documents as mentioned in the dataset index is available on the folder named "files" in the dataset shared with you.
+The summaries are available in the Google Sheet provided. The Google sheet contains 5 columns   Sl No., 	Case Document Name,	Date of Document, Creation	indiankanoon.org Link - summary of case,	LLAMA2 generated Summary using approach - using summaries of summaries and	GPT3.5 generated Summary using approach - using summaries of summaries
 
+![image](https://github.com/user-attachments/assets/aa58fe6a-6f77-4e84-bf2b-014b04e782bb)
+a. The Sl No column refers to the case number and corresponds to the document number in the files folder, which contains the court copy or original document.
+b. The Case Document Name contains the case name followed by the date of the document.
+c. The indiankanoon.org Link - Summary of Case column provides a direct link to the human-generated summary of the case on IndianKanoon.
+d. LLAMA2 generated Summary using approach - using summaries of summaries and	GPT3.5 generated Summary using approach - using summaries of summaries contains the summaries created against the cases using approach discussed in the paper.
 
 You are requested to cite our paper if you use any part of the dataset or paper for your work. Please contact authors in case of any query.
-
+#Citation link: to be updated
 # Acknowledgement
 https://indiankanoon.org/
