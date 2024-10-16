@@ -20,12 +20,16 @@ The Court Documents as mentioned in the dataset index is available on the folder
 The summaries are available in the Google Sheet provided. The Google sheet contains 5 columns   Sl No., 	Case Document Name,	Date of Document, Creation	indiankanoon.org Link - summary of case,	LLAMA2 generated Summary using approach - using summaries of summaries and	GPT3.5 generated Summary using approach - using summaries of summaries
 
 ![image](https://github.com/user-attachments/assets/aa58fe6a-6f77-4e84-bf2b-014b04e782bb)
+
 a. The Sl No column refers to the case number and corresponds to the document number in the files folder, which contains the court copy or original document.
+
 b. The Case Document Name contains the case name followed by the date of the document.
+
 c. The indiankanoon.org Link - Summary of Case column provides a direct link to the human-generated summary of the case on IndianKanoon.
+
 d. LLAMA2 generated Summary using approach - using summaries of summaries and	GPT3.5 generated Summary using approach - using summaries of summaries contains the summaries created against the cases using approach discussed in the paper.
 
 You are requested to cite our paper if you use any part of the dataset or paper for your work. Please contact authors in case of any query.
-#Citation link: to be updated
+# Citation link: to be updated
 # Acknowledgement
-https://indiankanoon.org/
+https://indiankanoon.org/, https://ecourts.gov.in/ecourts_home/
